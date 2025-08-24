@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/yannis-gerontopoulos-686878222/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="yannis.gero99@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to@=yannis.gero99@gmail.com&su=&body=&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/nitro0blaster99" target="_blank">
